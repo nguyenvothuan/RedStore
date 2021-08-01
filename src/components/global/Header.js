@@ -30,7 +30,7 @@ const Header = () => {
             <div class="container">
                 <div class="navbar">
                     <div class="logo">
-                        <img src={cap} width="125px" />
+                        <img src={logo} width="125px" />
                     </div>
                     <nav>
                         {navBar}
